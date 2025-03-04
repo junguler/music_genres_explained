@@ -1,6 +1,6 @@
 ## rock
 | genre | description |
-|---|---| |
+|---|---|
 | rock - aberdeen-indie | Aberdeen indie music is a genre that combines elements of alternative rock, punk, and pop. It is characterized by raw and emotional lyrics, catchy guitar riffs, and energetic drum beats. The music often deals with themes of youth, love, and rebellion. The artists in this genre are known for their passionate performances and DIY ethos. |
 | rock - acid-rock | Acid rock is a subgenre of rock music that emerged in the late 1960s and is characterized by its heavy use of distorted electric guitars, psychedelic lyrics, and a focus on improvisation and experimentation. The music often features extended instrumental solos and incorporates elements of blues, jazz, and folk music. Acid rock was associated with the counterculture movement of the time and was often used as a means of expressing political and social dissent. |
 | rock - acoustic-rock | Acoustic rock is a genre that features stripped-down, unplugged versions of traditional rock songs. The music typically includes acoustic guitars, percussion, and vocals, and often has a folk or country influence. The lyrics are often introspective and emotional, exploring themes of love, loss, and personal growth. The genre has gained popularity in recent years, with many artists incorporating acoustic elements into their music. |
